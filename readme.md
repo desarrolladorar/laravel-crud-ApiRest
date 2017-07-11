@@ -10,7 +10,7 @@
 ## INDICACIONES
 
 -Tener Instalado:
-		-Instalar Wamp, Mamp o Xamp
+		-Instalar Wamp, Mamp o Xamp <br>
 		-Composer
 
 	
@@ -18,8 +18,8 @@
 
 ## CRUD CON LARAVEL
 
--Modificar estos dos archivos (db, username, password):
-		.env
+-Modificar estos dos archivos (db, username, password): <br>
+		.env <br>
 		config/database.php
 
 
