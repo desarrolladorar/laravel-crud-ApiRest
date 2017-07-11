@@ -49,3 +49,10 @@ Este ejemplo ha sido hecho con fines educativos, de hecho tiene algunas cosas po
 Pero también es muy funcional y cumple las espectativas.
 
 Les agradeceré que perfeccionen este ejemplo.
+
+## Sobre el Autor:
+Actualmente me dedico a crear Sitios web, y Aplicaciones web. 
+Si tienes algún proyecto o idea que quieres desarrollar,
+contacta conmigo.
+
+Tecnologías que uso: (Html, Css, Js, Php, Ajax, Angular, Nodejs, Laravel, y otros)
