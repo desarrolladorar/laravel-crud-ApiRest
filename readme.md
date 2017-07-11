@@ -9,8 +9,8 @@
 
 ## INDICACIONES
 
--Tener Instalado:
-		-Instalar Wamp, Mamp o Xamp <br>
+-Tener Instalado: <br>
+		-Wamp, Mamp o Xamp <br>
 		-Composer
 
 	
