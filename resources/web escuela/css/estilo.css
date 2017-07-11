@@ -1,0 +1,30 @@
+header, footer{
+	background-color: #474542;
+	padding: 5px;
+	border-radius: 10px 0px;
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	
+}
+
+footer{
+	margin-top: 400px;
+	
+
+}
+
+li{
+	display: inline;
+	margin-left: 50px;
+	font-size: 1.5em;
+	color: black;
+}
+li:hover{
+	color: #209C13;
+}
+
+a:link{
+	text-decoration: none;
+}
+
